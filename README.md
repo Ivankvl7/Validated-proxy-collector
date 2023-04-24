@@ -13,13 +13,8 @@ REQUIREMENTS:
 python 3.10+
 
 bs4
-
 requests
-
 asyncio
-
 aiohttp
-
 fake_useragent
-
 pprint
