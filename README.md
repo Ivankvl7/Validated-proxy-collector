@@ -10,7 +10,7 @@ proxies: list[str] = asyncio.run(pr.main())
 Please import the class and asyncio module properly before running the code
 
 REQUIREMENTS:
-python 3.10+
+python 3.10+ '\n'
 bs4
 requests
 asyncio
