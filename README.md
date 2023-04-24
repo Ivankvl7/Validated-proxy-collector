@@ -11,7 +11,6 @@ Please import the class and asyncio module properly before running the code
 
 REQUIREMENTS:
 python 3.10+
-
 bs4
 requests
 asyncio
